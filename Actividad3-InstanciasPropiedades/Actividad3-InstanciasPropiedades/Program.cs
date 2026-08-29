@@ -1,6 +1,6 @@
 ﻿namespace Actividad3_InstanciasPropiedades
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
