@@ -1,0 +1,14 @@
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.AssemblyInfoInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.AssemblyInfo.cs
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\bin\Debug\net10.0\Actividad3-InstanciasPropiedades.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\bin\Debug\net10.0\Actividad3-InstanciasPropiedades.deps.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\bin\Debug\net10.0\Actividad3-InstanciasPropiedades.runtimeconfig.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\bin\Debug\net10.0\Actividad3-InstanciasPropiedades.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\bin\Debug\net10.0\Actividad3-InstanciasPropiedades.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\refint\Actividad3-InstanciasPropiedades.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\Actividad3-InstanciasPropiedades.genruntimeconfig.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad3-InstanciasPropiedades\Actividad3-InstanciasPropiedades\obj\Debug\net10.0\ref\Actividad3-InstanciasPropiedades.dll

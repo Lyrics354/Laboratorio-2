@@ -1,0 +1,14 @@
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.AssemblyInfoInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.AssemblyInfo.cs
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\bin\Debug\net10.0\AplicacionLibroCalificaciones.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\bin\Debug\net10.0\AplicacionLibroCalificaciones.deps.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\bin\Debug\net10.0\AplicacionLibroCalificaciones.runtimeconfig.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\bin\Debug\net10.0\AplicacionLibroCalificaciones.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\bin\Debug\net10.0\AplicacionLibroCalificaciones.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\refint\AplicacionLibroCalificaciones.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\AplicacionLibroCalificaciones.genruntimeconfig.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\AplicacionLibroCalificaciones\AplicacionLibroCalificaciones\obj\Debug\net10.0\ref\AplicacionLibroCalificaciones.dll

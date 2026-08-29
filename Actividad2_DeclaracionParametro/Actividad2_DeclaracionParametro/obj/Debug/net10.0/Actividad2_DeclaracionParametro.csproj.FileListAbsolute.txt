@@ -1,0 +1,14 @@
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.AssemblyInfoInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.AssemblyInfo.cs
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\bin\Debug\net10.0\Actividad2_DeclaracionParametro.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\bin\Debug\net10.0\Actividad2_DeclaracionParametro.deps.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\bin\Debug\net10.0\Actividad2_DeclaracionParametro.runtimeconfig.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\bin\Debug\net10.0\Actividad2_DeclaracionParametro.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\bin\Debug\net10.0\Actividad2_DeclaracionParametro.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\refint\Actividad2_DeclaracionParametro.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\Actividad2_DeclaracionParametro.genruntimeconfig.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Actividad2_DeclaracionParametro\Actividad2_DeclaracionParametro\obj\Debug\net10.0\ref\Actividad2_DeclaracionParametro.dll
