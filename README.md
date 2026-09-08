@@ -42,6 +42,7 @@ Imagina que necesitas crear un sistema para un libro de calificaciones. En esta 
 -Crear un objeto (una instancia) de esa clase en tu Main()
 
 -Llamar al método para que se ejecute
+<img width="1471" height="335" alt="image" src="https://github.com/user-attachments/assets/85266dd5-b6ec-4642-b5b0-98ffc7ec5dba" />
 
 
 ## Actividad 2 - Agregarle Parámetros al Método
@@ -55,6 +56,7 @@ Ahora vas a mejorar lo anterior. El problema con la Actividad 1 es que el mensaj
 -Pasar ese nombre al método para que lo muestre personalizado
 
 Básicamente: en lugar de que el libro siempre diga "¡Bienvenido!", ahora dice "¡Bienvenido al curso de Matemáticas!" o el que el usuario haya ingresado. Es como darle al método "instrucciones personalizadas".
+<img width="1472" height="453" alt="image" src="https://github.com/user-attachments/assets/9293ebfc-f05c-4f49-b241-dbc3fa4952a8" />
 
 ## Actividad 3: Variables de Instancia y Propiedades
 
@@ -67,5 +69,7 @@ Ahora vas a:
 -El usuario ingresa un nombre, lo guardas en la propiedad, y el objeto lo recuerda
 
 -El método MostrarMensaje() ahora usa la propiedad en lugar de un parámetro
+<img width="1467" height="462" alt="image" src="https://github.com/user-attachments/assets/2f21b971-9b08-4bfb-9e74-e925db35236d" />
+
 
 ¿Por qué esto es importante? Porque ahora el objeto mantiene su propio estado. Si creas dos objetos LibroCalificaciones, cada uno recuerda su propio curso. Es como si cada libro tuviera memoria propia.
