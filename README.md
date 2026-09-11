@@ -33,13 +33,9 @@ Usa {0}, {1} etc. para insertar variables en texto, Ejemplo: Console.WriteLine("
 
 ## Actividad 1 - Crear la Clase LibroCalificaciones
 
-Imagina que necesitas crear un sistema para un libro de calificaciones. En esta primera actividad vas a:
+En esta actividad se creó una aplicación de consola en C# con el objetivo de comprender la estructura fundamental de una clase y el proceso de instanciación de objetos. Se definió la clase LibroCalificacion, la cual contiene un único método público llamado MostrarMensaje(), cuya función es desplegar en pantalla un mensaje de bienvenida mediante Console.WriteLine.
 
--Crear una clase simple llamada LibroCalificaciones
-
--Darle un método que solo muestre un mensaje de bienvenida cuando lo llames
-
--Crear un objeto (una instancia) de esa clase en tu Main()
+Posteriormente, dentro del método Main (punto de entrada obligatorio de toda aplicación de consola en C#), se instanció un objeto de la clase mediante el operador new, asignándolo a la variable MyLibro. Una vez creado el objeto, se invocó el método MostrarMensaje() utilizando la notación de punto (MyLibro.MostrarMensaje();), lo que permitió comprobar que un método definido en una clase solo puede ejecutarse a través de una instancia (objeto) de dicha clase. Esta actividad permitió aplicar la convención de nomenclatura PascalCase en el nombre de la clase y reforzar el concepto de que Main se ejecuta automáticamente al correr el programa.
 
 -Llamar al método para que se ejecute
 <img width="1471" height="335" alt="image" src="https://github.com/user-attachments/assets/85266dd5-b6ec-4642-b5b0-98ffc7ec5dba" />
@@ -47,28 +43,21 @@ Imagina que necesitas crear un sistema para un libro de calificaciones. En esta 
 
 ## Actividad 2 - Agregarle Parámetros al Método
 
-Ahora vas a mejorar lo anterior. El problema con la Actividad 1 es que el mensaje siempre es igual. Así que aquí vas a:
+En esta actividad se modificó la clase para incorporar el paso de argumentos entre objetos. Se creó la clase MiLibroCalificaciones con un método MostrarMensaje(string nombreCurso) que ahora recibe un parámetro de tipo string. Dentro del método, se utilizó Console.WriteLine junto con el marcador de posición {0} y el carácter de salto de línea \n para mostrar un mensaje personalizado que incluye el nombre del curso ingresado.
 
--Modificar el método para que acepte un parámetro (por ejemplo, el nombre del curso)
-
--Pedir al usuario que ingrese el nombre del curso por teclado
-
--Pasar ese nombre al método para que lo muestre personalizado
-
-Básicamente: en lugar de que el libro siempre diga "¡Bienvenido!", ahora dice "¡Bienvenido al curso de Matemáticas!" o el que el usuario haya ingresado. Es como darle al método "instrucciones personalizadas".
+En el Main, se solicitó al usuario que ingresara el nombre de un curso mediante Console.ReadLine(), almacenando el valor en la variable nombreDelCurso. Este valor se pasó como argumento al llamar al método MostrarMensaje(nombreDelCurso), demostrando cómo el valor de una variable local en Main se transfiere al parámetro correspondiente del método al momento de la invocación.
 <img width="1472" height="453" alt="image" src="https://github.com/user-attachments/assets/9293ebfc-f05c-4f49-b241-dbc3fa4952a8" />
 
 ## Actividad 3: Variables de Instancia y Propiedades
 
-Ahora vas a:
+Esta actividad tuvo como propósito aplicar el concepto de encapsulamiento mediante variables de instancia y propiedades. Se declaró en la clase LibroCalificaciones un campo privado private string nombreCurso;, el cual, al estar fuera del cuerpo de cualquier método, conserva su valor durante toda la vida del objeto (variable de instancia).
 
--Crear un campo privado llamado nombreCurso que guarde el nombre del curso dentro del objeto
+Para permitir el acceso controlado a este campo privado sin exponerlo directamente, se implementó la propiedad pública NombreCurso, compuesta por:
 
--Crear una propiedad pública NombreCurso que tenga un get (para leer) y un set (para escribir)
+un descriptor get, que retorna el valor almacenado en nombreCurso; y
+un descriptor set, que asigna a nombreCurso el valor recibido mediante la palabra implícita value.
 
--El usuario ingresa un nombre, lo guardas en la propiedad, y el objeto lo recuerda
-
--El método MostrarMensaje() ahora usa la propiedad en lugar de un parámetro
+Además, se creó un constructor public LibroCalificaciones(string nombre) que inicializa la variable de instancia al momento de crear el objeto. El método MostrarMensaje() se modificó para que ya no reciba parámetros, sino que obtenga el nombre del curso a través de la propiedad NombreCurso, siguiendo la buena práctica de que los métodos de una clase manipulen sus variables de instancia a través de propiedades y no de forma directa. Esto demuestra el principio de ocultamiento de información (information hiding), donde el modificador private restringe el acceso a la variable solo a los miembros de la propia clase.
 <img width="1467" height="462" alt="image" src="https://github.com/user-attachments/assets/2f21b971-9b08-4bfb-9e74-e925db35236d" />
 
 
