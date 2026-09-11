@@ -37,6 +37,7 @@ Esta actividad tuvo como propósito aplicar el concepto de encapsulamiento media
 Para permitir el acceso controlado a este campo privado sin exponerlo directamente, se implementó la propiedad pública NombreCurso, compuesta por:
 
 -un descriptor get, que retorna el valor almacenado en nombreCurso; y
+
 -un descriptor set, que asigna a nombreCurso el valor recibido mediante la palabra implícita value.
 
 Además, se creó un constructor public LibroCalificaciones(string nombre) que inicializa la variable de instancia al momento de crear el objeto. El método MostrarMensaje() se modificó para que ya no reciba parámetros, sino que obtenga el nombre del curso a través de la propiedad NombreCurso, siguiendo la buena práctica de que los métodos de una clase manipulen sus variables de instancia a través de propiedades y no de forma directa. Esto demuestra el principio de ocultamiento de información (information hiding), donde el modificador private restringe el acceso a la variable solo a los miembros de la propia clase.
