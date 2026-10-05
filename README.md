@@ -56,6 +56,17 @@ https://github.com/Lyrics354/Laboratorio-2.git
 5. Ejecutar la aplicación con **F5** o **Ctrl + F5** (sin depurar).
 6. Seguir las instrucciones que se muestran en la consola (por ejemplo, ingresar el nombre del curso cuando se solicite).
 
+## 📁 Estructura de Carpetas o Directorios
+
+```plaintext
+Laboratorio/
+├── 01-Actividad1_AplicacionLibroCalificaciones
+├── 02-Actividad2_DeclaracionParametro
+├── 03-Actividad3_InstanciasProdpiedades
+├── Archivo de entrega (PDF)
+└── README.md                         # Documentación del proyecto
+```
+
 ## 👤 Autor y Contexto
 
 - **Nombre:** Wilson Wu 2-756-299
